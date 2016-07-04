@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 
-namespace permutations_console {
+namespace Permutations {
 
     // Copied from http://stackoverflow.com/a/11473510/2301450
     public static class StaticRandom

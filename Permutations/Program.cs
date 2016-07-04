@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace permutations_console {
+namespace Permutations {
 
     class Program {
         static void Main(string[] args) {

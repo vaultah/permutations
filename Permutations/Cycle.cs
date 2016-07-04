@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace permutations_console {
+namespace Permutations {
 
     public class Cycle : IEnumerable<int> {
         private Dictionary<int, int> map;

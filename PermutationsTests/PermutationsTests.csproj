@@ -55,9 +55,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\permutations_console\permutations_console.csproj">
+    <ProjectReference Include="..\Permutations\Permutations.csproj">
       <Project>{4e06df33-060d-4835-901a-f640365a3326}</Project>
-      <Name>permutations_console</Name>
+      <Name>Permutations</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

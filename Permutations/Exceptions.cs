@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace permutations_console {
+namespace Permutations {
 
     // Used only by *.from_string methods
     public class InvalidInput: Exception

@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 using System.Collections;
 
 
-namespace permutations_console {
+namespace Permutations {
 
     public class Permutation : IEnumerable<Cycle>
     {
