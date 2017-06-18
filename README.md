@@ -16,14 +16,14 @@ a permutation or a cycle.
 
 > ***Note:*** *the product `ab` represents the permutation `a(b(∙))`*
 
-###String representation formats:
+### String representation formats:
 
 ####Cycles
 Any number of positive integers separated by whitespace characters. Each cycle must be enclosed with parentheses e.g.
 ```
 (1 2 3)
 ```
-####Permutations
+#### Permutations
 A sequence of cycles, optionally followed by ` ^ <power>`. If ` ^ <power>` is present, cycles must be wrapped with 
 square brackets.
 
@@ -33,7 +33,7 @@ square brackets.
   [(1 2 3)(4 5 6)] ^ 7 // valid
 ```
 
-###Command line interface
+### Command line interface
 
 Displays properties of entered permutations. If the input is empty, it will a generate a random permutation. Example:
 
