@@ -18,7 +18,7 @@ a permutation or a cycle.
 
 ### String representation formats:
 
-####Cycles
+#### Cycles
 Any number of positive integers separated by whitespace characters. Each cycle must be enclosed with parentheses e.g.
 ```
 (1 2 3)
